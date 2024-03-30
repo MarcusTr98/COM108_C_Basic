@@ -1,0 +1,26 @@
+Sử dụng menu cho các bài sau:
+--------------MENU---------------
+1. Thong tin ban than
+2. Tinh trung binh cong trong mang
+3. Thong tin luan van
+0. Thoat
+----------------------------------
+lap lai menu sau moi lần chay.
+
+Bai1:
+Nhap thong tin ban than: họ và tên, mã sinh viên, lop. Xuat ra thong tin vưa nhập.
+
+Bai2:
+Nhap vào mảng so nguyen không lớn hơn 20. Tính trung bình cộng của mảng số nguyên đó chia het cho 3.
+
+Bai3:
+Tạo Struct quản lý Luận văn.
+1. Nhap thong tin luan van
+Gồm: 
+Mã luận văn ko quá 10 kí tự
+Tên luận văn ko quá 100 kí tự
+Tên Sinh viên ko quá 30 kí tự
+Tên giảng viên ko quá 30 kí tự.
+Năm thực hiện ( kiểu 2 byte ).
+2. Sap xep thong tin luan van có số năm giảm dần
+3. Xuất ra sau khi sắp xếp.
